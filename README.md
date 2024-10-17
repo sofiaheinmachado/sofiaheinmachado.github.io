@@ -1,0 +1,1 @@
+Projects developed for my graduate level courses, including Big Data and Analytics, Multivariate Analysis, Data visualization, among others. Includes data projects made with R, Python, Tableau and SPSS.
